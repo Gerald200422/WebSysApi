@@ -1,0 +1,28 @@
+[
+    "user",
+        {
+        "id": 1,
+        "name": "Gaming PC",
+        "cpu": "Intel Core i7",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "gpu": "NVIDIA GeForce GTX 1660"
+        },
+        {
+        "id": 2,
+        "name": "Workstation PC",
+        "cpu": "AMD Ryzen 5",
+        "ram": "8GB",
+        "storage": "1TB HDD",
+        "gpu": "AMD Radeon RX 580"
+        },
+        {
+        "id": 3,
+        "name": "High-End Gaming PC",
+        "cpu": "Intel Core i9",
+        "ram": "32GB",
+        "storage": "1TB SSD",
+        "gpu": "NVIDIA GeForce RTX 3080"
+        }
+ ]
+ 
